@@ -1,0 +1,39 @@
+body {
+   /* Look at color.adobe.com for more ideas on color */
+   background-color: rgb(253, 63, 255);
+   color: #FFD69A;
+   margin: auto;
+   width: 80%;
+}
+
+h1, h2, h3 {
+   /* fonts.google.com*/
+   font-family: 'Alfa Slab One', serif;
+   font-size: 48px;
+   text-align: center;
+}
+
+h1 {
+   margin-bottom: 60px;
+   margin-top: 120px;
+}
+
+p {
+   border-top: 30px dotted green;
+   border-right: 3px solid red;
+   border-bottom: 10px dashed blue;
+   border-left: 15px solid #fadedd;
+   
+   padding: 20px;
+   
+   border: 1px solid #fdaddd;
+   
+
+   font-family: 'Open Sans', sans-serif;
+   line-height: 1.4;
+}
+
+a {
+   color: red;
+   text-decoration: none;
+}
